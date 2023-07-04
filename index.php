@@ -1,5 +1,8 @@
 <?php
-$hotels = [
+//bonus 1: includere array.php:
+include './array.php'
+
+/*$hotels = [
 
     [
         'name' => 'Hotel Belvedere',
@@ -37,7 +40,7 @@ $hotels = [
         'distance_to_center' => 50
     ],
 
-];
+];*/
 ?>
 
 <!DOCTYPE html>
